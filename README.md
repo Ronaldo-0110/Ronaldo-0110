@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Portfolio!" alt="Banner" />
+</div>
 
 # 👋 Hi, I'm Ronaldo!  
 🌟 **Aspiring Data Scientist | AI Enthusiast | LLM Researcher**
@@ -6,11 +8,19 @@
 ---
 
 ## 👩‍💻 About Me
+<div align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=Data+Science+and+AI" alt="About Me" />
+</div>
+
 I'm a driven Data Scientist with a passion for building innovative, real-world solutions. My expertise spans AI-powered recommendation systems, data visualization, synthetic data generation, and working with large language models (LLMs). With a deep interest in leveraging data to solve industry challenges, I have successfully executed projects in diverse domains, including healthcare, fashion, gaming, and finance.
 
 ---
 
 ## 🚀 Technical Skills
+<div align="center">
+  <img src="https://via.placeholder.com/600x200.png?text=Technical+Skills" alt="Technical Skills" />
+</div>
+
 - **Programming Languages**: Python, SQL  
 - **Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers  
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Neural Networks, NLP  
@@ -24,6 +34,10 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 ---
 
 ## 📂 Featured Projects
+<div align="center">
+  <img src="https://via.placeholder.com/600x200.png?text=Projects+Showcase" alt="Projects Showcase" />
+</div>
+
 ### 1. **Therapy Bot**  
 - Built an intelligent chatbot to provide mental health support.  
 - Integrated sentiment analysis, conversational AI, and fine-tuned transformer models for personalized interactions.
@@ -51,16 +65,27 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 ---
 
 ## 📈 My Goals
-- Join **AI Startup Companies** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
+<div align="center">
+  <img src="https://via.placeholder.com/600x200.png?text=My+Goals" alt="Goals" />
+</div>
+
+- Join **Raga AI** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
 - Expand expertise in NLP, synthetic data generation, and generative AI.  
 - Collaborate on cutting-edge projects that push the boundaries of AI and machine learning.  
 
 ---
 
 ## 📫 Let's Connect!
+<div align="center">
+  <img src="https://via.placeholder.com/600x200.png?text=Connect+With+Me!" alt="Connect with Me" />
+</div>
+
 - **LinkedIn**: [linkedin.com/in/ronaldo](https://linkedin.com/in/ronaldo)  
 - **Portfolio**: [ronaldo.github.io](https://ronaldo.github.io) *(if applicable)*  
-- **Email**: ronaldo@example.com  
+- **Email**: ronaldosjr07@gmail.com  
+
+
+
 
 
 
