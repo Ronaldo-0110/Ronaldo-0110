@@ -22,7 +22,7 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 🚀 Technical Skills
 <div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Technical+Skills" alt="Technical Skills" />
+  
 </div>
 
 - **Programming Languages**: Python, SQL  
@@ -39,8 +39,7 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 📂 Featured Projects
 <div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Projects+Showcase" alt="Projects Showcase" />
-</div>
+ 
 
 ### 1. **Therapy Bot**  
 - Built an intelligent chatbot to provide mental health support.  
@@ -70,10 +69,10 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 📈 My Goals
 <div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=My+Goals" alt="Goals" />
+  
 </div>
 
-- Join **Raga AI** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
+- Join **AI Companies** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
 - Expand expertise in NLP, synthetic data generation, and generative AI.  
 - Collaborate on cutting-edge projects that push the boundaries of AI and machine learning.  
 
@@ -81,11 +80,11 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 📫 Let's Connect!
 <div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Connect+With+Me!" alt="Connect with Me" />
+  
 </div>
 
 - **LinkedIn**: [linkedin.com/in/ronaldo](https://linkedin.com/in/ronaldo)  
-- **Portfolio**: [ronaldo.github.io](https://ronaldo.github.io) *(if applicable)*  
+- **Phone Number**:+91 9025243108*(if applicable)*  
 - **Email**: ronaldosjr07@gmail.com  
 
 
