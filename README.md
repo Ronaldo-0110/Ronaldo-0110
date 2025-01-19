@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Portfolio!" alt="Banner" />
+<img src="https://raw.githubusercontent.com/Ronaldo-0110/repo/main/ronaldo-banner.png" alt="Banner" />
 </div>
 
 # 👋 Hi, I'm Ronaldo!  
