@@ -39,31 +39,33 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 📂 Featured Projects
 <div align="center">
- 
+  <img src="https://via.placeholder.com/600x200.png?text=Projects+Showcase" alt="Projects Showcase" />
+</div>
 
-### 1. **Therapy Bot**  
+### 1. **[Therapy Bot](https://github.com/Ronaldo-0110/Theray Bot)**  
 - Built an intelligent chatbot to provide mental health support.  
 - Integrated sentiment analysis, conversational AI, and fine-tuned transformer models for personalized interactions.
 
-### 2. **FitMyStyle (Python-Django Project)**  
+### 2. **[FitMyStyle (Python-Django Project)](https://github.com/Ronaldo-0110/Fit My Style)**  
 - Developed a web application for the tailoring industry.  
 - Incorporated data-driven user interfaces and machine learning algorithms for style recommendations.
 
-### 3. **Video Game Sales Analysis**  
+### 3. **[Video Game Sales Analysis](https://github.com/Ronaldo-0110/Vb Sales Analysis)**  
 - Conducted a comprehensive analysis of video game sales data using **Tableau**.  
 - Provided actionable insights through interactive dashboards.
 
-### 4. **Reversed Image Search Engine**  
+### 4. **[Reversed Image Search Engine](https://github.com/Ronaldo-0110/Reverse Image Search Engine**  
 - Built an image search engine leveraging **deep learning** models like VGG16 and ResNet50.  
 - Integrated text extraction using **Tesseract OCR** and external APIs for enhanced functionality.
 
-### 5. **Synthetic Data Generation in Finance and Electricity** *(Featured)*  
+### 5. **[Synthetic Data Generation in Finance and Electricity](https://github.com/Ronaldo-0110/synthetic-data-generation)** *(Featured)*  
 - Designed models to generate realistic synthetic data for finance and electricity production.  
 - Focused on replicating real-world scenarios for privacy-preserving analytics.
 
-### 6. **Food Recommendation System Based on Genetics** *(Featured)*  
+### 6. **[Food Recommendation System Based on Genetics](https://github.com/Ronaldo-0110/food-recommendation-genetics)** *(Featured)*  
 - Created a personalized food recommendation system by analyzing genetic data.  
 - Used machine learning to identify dietary preferences tailored to genetic profiles.
+  
 
 ---
 
@@ -84,7 +86,13 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 - **LinkedIn**: [linkedin.com/in/ronaldo](https://linkedin.com/in/ronaldo)  
 - **Phone Number**:+91 9025243108*(if applicable)*  
-- **Email**: ronaldosjr07@gmail.com  
+- **Email**: ronaldosjr07@gmail.com
+ 
+
+
+
+
+
 
 
 
