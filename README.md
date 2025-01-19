@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ronaldo-0110/repo/main/ronaldo-banner.png" alt="Banner" />
+<img src="https://raw.githubusercontent.com/Ronaldo-0110/Sahaya-Jeon-Ronaldo/main/Ronalod.png" alt="Banner" />
+  
 </div>
 
 # 👋 Hi, I'm Ronaldo!  
