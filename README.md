@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ronaldo-0110/Sahaya-Jeon-Ronaldo/main/Ronaldo (1) (2).png" alt="About Me" />
+  <img src="" alt="About Me" />
 </div>
 
 I'm a driven Data Scientist with a passion for building innovative, real-world solutions. My expertise spans AI-powered recommendation systems, data visualization, synthetic data generation, and working with large language models (LLMs). With a deep interest in leveraging data to solve industry challenges, I have successfully executed projects in diverse domains, including healthcare, fashion, gaming, and finance.
