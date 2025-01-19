@@ -42,19 +42,19 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
   <img src="https://via.placeholder.com/600x200.png?text=Projects+Showcase" alt="Projects Showcase" />
 </div>
 
-### 1. **[Therapy Bot](https://github.com/Ronaldo-0110/Theray Bot)**  
+### 1. **[Therapy Bot](https://github.com/Ronaldo-0110/Theray-Bot)**  
 - Built an intelligent chatbot to provide mental health support.  
 - Integrated sentiment analysis, conversational AI, and fine-tuned transformer models for personalized interactions.
 
-### 2. **[FitMyStyle (Python-Django Project)](https://github.com/Ronaldo-0110/Fit My Style)**  
+### 2. **[FitMyStyle (Python-Django Project)](https://github.com/Ronaldo-0110/Fit-My-Style)**  
 - Developed a web application for the tailoring industry.  
 - Incorporated data-driven user interfaces and machine learning algorithms for style recommendations.
 
-### 3. **[Video Game Sales Analysis](https://github.com/Ronaldo-0110/Vb Sales Analysis)**  
+### 3. **[Video Game Sales Analysis](https://github.com/Ronaldo-0110/Video-Game-Sales-Analysis)**  
 - Conducted a comprehensive analysis of video game sales data using **Tableau**.  
 - Provided actionable insights through interactive dashboards.
 
-### 4. **[Reversed Image Search Engine](https://github.com/Ronaldo-0110/Reverse Image Search Engine**  
+### 4. **[Reversed Image Search Engine](https://github.com/Ronaldo-0110/Reverse-Image-Search-Engine**  
 - Built an image search engine leveraging **deep learning** models like VGG16 and ResNet50.  
 - Integrated text extraction using **Tesseract OCR** and external APIs for enhanced functionality.
 
