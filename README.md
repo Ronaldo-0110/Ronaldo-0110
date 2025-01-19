@@ -22,6 +22,7 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 
 ## 🚀 Technical Skills
 <div align="center">
+<img src="https://raw.githubusercontent.com/Ronaldo-0110/Sahaya-Jeon-Ronaldo/main/Ronaldo (1) (2).png" alt="About Me" />
   
 </div>
 
