@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ronaldo-0110/Sahaya-Jeon-Ronaldo/main/Ronaldo(1)(1).jpg" alt="Banner" />
+<img src="https://raw.githubusercontent.com/Ronaldo-0110/Sahaya-Jeon-Ronaldo/main/Ronaldo(1)(1).png" alt="Banner" />
+
 
 
   
