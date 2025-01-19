@@ -51,7 +51,7 @@ I'm a driven Data Scientist with a passion for building innovative, real-world s
 ---
 
 ## 📈 My Goals
-- Join **Raga AI** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
+- Join **AI Startup Companies** to explore innovative applications of **Large Language Models (LLMs)** for solving industry problems.  
 - Expand expertise in NLP, synthetic data generation, and generative AI.  
 - Collaborate on cutting-edge projects that push the boundaries of AI and machine learning.  
 
